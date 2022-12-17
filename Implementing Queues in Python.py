@@ -50,7 +50,6 @@ lifo.pop()
 lifo.pop()
 '1st'
 
-print("==========================")
 
 #Representing Priority Queues With a Heap
 
@@ -84,8 +83,6 @@ person1 < person2
 True
 person2 < person3
 False
-
-print("========================")
 
 #Building a Priority Queue Data Type
 

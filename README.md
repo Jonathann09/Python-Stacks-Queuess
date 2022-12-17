@@ -1,1 +1,1 @@
-# Python-Stacks-Queuess
+# Python-Stacks-Queues
